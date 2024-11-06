@@ -1,0 +1,6 @@
+env
+pip_src
+build
+test/*.zip
+test/exported_model
+test/rps_data_sample
