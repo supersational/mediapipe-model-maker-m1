@@ -71,7 +71,7 @@ def _setup_build_dir():
 _setup_build_dir()
 
 setuptools.setup(
-    name='mediapipe-model-maker',
+    name='mediapipe-model-maker-m1',
     version=__version__,
     url='https://github.com/google/mediapipe/tree/master/mediapipe/model_maker',
     description='MediaPipe Model Maker is a simple, low-code solution for customizing on-device ML models',
