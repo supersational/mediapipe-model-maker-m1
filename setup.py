@@ -21,7 +21,7 @@ import shutil
 import setuptools
 
 
-__version__ = 'dev'
+__version__ = '0.2.1.4'
 MM_ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
 # Build dir to copy all necessary files and build package
 SRC_NAME = 'pip_src'
